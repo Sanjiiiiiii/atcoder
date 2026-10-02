@@ -4,11 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11
-  - numpy
   - cxx-compiler
-  - scipy
-  - scikit-learn
-  - networkx
   - matplotlib
   - pip
   - nodejs
