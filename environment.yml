@@ -10,5 +10,6 @@ dependencies:
   - networkx
   - matplotlib
   - pip
+  - nodejs
   - pip:
     - online-judge-tools
