@@ -1,0 +1,13 @@
+name: atcoder
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - matplotlib
+  - networkx
+  - numpy
+  - pip
+  - python=3.11
+  - scikit-learn
+  - scipy
+prefix: /root/anaconda3/envs/atcoder

@@ -1,0 +1,5 @@
+tests/
+*.out
+a.out
+cookie.jar
+*.pyc
